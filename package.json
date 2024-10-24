@@ -1,0 +1,13 @@
+{
+    "name": "egg-project",
+    "version": "1.0.0",
+    "description": "A project to parse and analyze a custom programming language.",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Fernando-Mena",
+    "license": "",
+    "dependencies": {}
+  }
